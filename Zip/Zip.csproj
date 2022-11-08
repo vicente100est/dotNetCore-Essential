@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Description>Empacador de folders en Zip</Description>
+    <Authors>Vicente Estrada Dominguez</Authors>
+    <Company>VicentC0de</Company>
+    <Product>Zip</Product>
+    <PackageId>Zip!</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NLog" Version="5.0.5" />
+  </ItemGroup>
+
+</Project>

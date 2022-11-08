@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mGTyxcHHSvwrMZXEHDxh03IM0r1gvup5cEprIO32q7SRCp2/NCiYzr/FxfUpCymXvSAvayOyiyhMRu6mn5sbKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vicen\\Desktop\\lab\\.NetCore_Esencial\\Zip\\Zip\\Zip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vicen\\.nuget\\packages\\nlog\\5.0.5\\nlog.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
